@@ -1,8 +1,14 @@
-*{
-    background:#000;
-    font-size: 14px;
-    font-family: 'Courier New', Courier, monospace;
-    color: #000;
-    z-index: 9999;
-}
-
+:root {
+    --main-color: #ff0000;
+    --main-font:'Bebas Neue';
+    --message-font:'Bebas Neue';
+    --message-color:#000000;
+    --rotate-title: rotate(0deg);
+    --font-size-title:  28px;
+    --font-color-title: #000;
+    --pane-padding: 5px 42px;
+    --box-shadow:0px 0px 0px #000;
+    --border:2px solid #000000;
+    --border-radius: 4px;
+    --background-message: #fff;
+    }
